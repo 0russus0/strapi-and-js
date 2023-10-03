@@ -19,7 +19,7 @@ Installer Strapi et créer un projet.
      ```
    - Créez un nouveau projet Strapi avec :
      ```
-     strapi new backend-strapi
+     npx create-strapi-starter my-project gatsby-blog
      ```
 2. **Démarrage**
    - Allez dans le dossier du projet et démarrez Strapi :
